@@ -7,3 +7,6 @@
 * [웹 애플리케이션 만들기(생활코딩)](https://opentutorials.org/course/1688)
 * [객체 지향을 위한 JAVA 선행학습(생활코딩)](https://opentutorials.org/course/1223)
 * [Github의 올바른 사용(생활코딩)](https://opentutorials.org/course/1492)
+
+### 읽을거리
+* [생활코딩 프로그래밍 오리엔테이션](https://opentutorials.org/course/1189/6206)
